@@ -17,4 +17,6 @@
 <br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mty8421&show_icons=true&theme=onedark&hide_border=true&cache_seconds=1800&locale=en" alt="mty8421" /></p>
 </span>
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+<p>
+  <img align="center" src="https://pagespeed-insights.herokuapp.com/?url=https://github.com/mTy8421/mTy8421" />
+</p>
