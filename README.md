@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Panthakit Totid</h1>
 
-<img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=mTy8421&data=followers,repositories,stars,commits" alt="mTy8421">
-
 <h3 align="center">A passionate backend developer from Thailand</h3>
 <p>
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="mty8421" />
