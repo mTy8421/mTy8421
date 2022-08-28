@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Panthakit Totid</h1>
 <p>
-<img aling="center" src="https://github-widgetbox.vercel.app/api/profile?username=mTy8421&data=followers,repositories,stars,commits" alt="mTy8421">
+<img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=mTy8421&data=followers,repositories,stars,commits" alt="mTy8421">
 </p>
 <h3 align="center">A passionate backend developer from Thailand</h3>
 <p>
