@@ -51,7 +51,7 @@ src="https://img.shields.io/github/followers/mTy8421?logo=github&style=for-the-b
 ### Badges
 
 <b>My GitHub Stats</b>
-
+<span align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mty8421&show_icons=true&theme=onedark&hide_border=true&locale=en&layout=compact" alt="mty8421" /></p>
 
 <a href="http://www.github.com/mTy8421"><img src="https://github-readme-stats.vercel.app/api?username=mTy8421&show_icons=true&hide=stars,prs,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="mTy8421's GitHub stats" /></a>
@@ -59,3 +59,4 @@ src="https://img.shields.io/github/followers/mTy8421?logo=github&style=for-the-b
 <a href="http://www.github.com/mTy8421"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mTy8421&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/mTy8421"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mTy8421&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+</span>
