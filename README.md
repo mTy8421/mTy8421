@@ -51,7 +51,7 @@ src="https://img.shields.io/github/followers/mTy8421?logo=github&style=for-the-b
 ### Badges
 
 <b>My GitHub Stats</b>
-<div align="center">
+<div>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mty8421&show_icons=true&theme=onedark&hide_border=true&locale=en&layout=compact" alt="mty8421" /></p>
 
 <a href="http://www.github.com/mTy8421"><img src="https://github-readme-stats.vercel.app/api?username=mTy8421&show_icons=true&hide=stars,prs,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="mTy8421's GitHub stats" /></a>
