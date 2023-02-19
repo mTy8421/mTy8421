@@ -13,12 +13,6 @@ i've learning to backend development in university.
 <a href="https://www.github.com/mTy8421" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mTy8421?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="dist/github-contribution-grid-snake.svg">
-</picture>
-
 ### Skills
 
 
