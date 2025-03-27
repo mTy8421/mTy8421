@@ -7,7 +7,7 @@ Backend developer
 i've learning to backend development in university.
 
 * 🌍  I'm based in Maesod Tak, Thailand
-* ✉️  You can contact me at [maesodmty007@gmail.com](mailto:maesodmty007@gmail.com)
+* ✉️  You can contact me at [panthakit.totid@gmail.com](mailto:panthakit.totid@gmail.com)
 * ⚡  Fun fact \*\*Play a game allow!! And Sleep all day~\*\*
 
 <a href="https://www.github.com/mTy8421" target="_blank" rel="noreferrer"><img
